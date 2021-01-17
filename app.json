@@ -1,0 +1,12 @@
+{
+  "name": "prosel",
+  "displayName": "prosel",
+  "expo": {
+    "name": "prosel",
+    "slug": "prosel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
