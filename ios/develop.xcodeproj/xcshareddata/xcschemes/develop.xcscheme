@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "prosel.app"
-               BlueprintName = "prosel"
-               ReferencedContainer = "container:prosel.xcodeproj">
+               BuildableName = "develop.app"
+               BlueprintName = "develop"
+               ReferencedContainer = "container:develop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "proselTests.xctest"
-               BlueprintName = "proselTests"
-               ReferencedContainer = "container:prosel.xcodeproj">
+               BuildableName = "developTests.xctest"
+               BlueprintName = "developTests"
+               ReferencedContainer = "container:develop.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "prosel.app"
-            BlueprintName = "prosel"
-            ReferencedContainer = "container:prosel.xcodeproj">
+            BuildableName = "develop.app"
+            BlueprintName = "develop"
+            ReferencedContainer = "container:develop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "prosel.app"
-            BlueprintName = "prosel"
-            ReferencedContainer = "container:prosel.xcodeproj">
+            BuildableName = "develop.app"
+            BlueprintName = "develop"
+            ReferencedContainer = "container:develop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
